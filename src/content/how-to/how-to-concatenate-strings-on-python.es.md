@@ -149,8 +149,3 @@ print(str1*3)
 
 
 
-# Recommended Material
-
-If you want to learn more about how to concatenate strings in Python and explore the different methods available, we invite you to check out this **interactive tutorial**.
-
-
